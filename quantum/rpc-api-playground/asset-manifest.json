@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "./static/js/main.317ed2c8.js",
-    "static/js/787.f208c0cf.chunk.js": "./static/js/787.f208c0cf.chunk.js",
-    "index.html": "./index.html",
-    "static/media/icon.svg": "./static/media/icon.a4b5cc90cb9d47e52d78d77a1712dd90.svg",
-    "main.317ed2c8.js.map": "./static/js/main.317ed2c8.js.map",
-    "787.f208c0cf.chunk.js.map": "./static/js/787.f208c0cf.chunk.js.map"
+    "main.js": "/quantum/rpc-api-playground/static/js/main.2ff3dff6.js",
+    "static/js/787.f208c0cf.chunk.js": "/quantum/rpc-api-playground/static/js/787.f208c0cf.chunk.js",
+    "index.html": "/quantum/rpc-api-playground/index.html",
+    "static/media/icon.svg": "/quantum/rpc-api-playground/static/media/icon.a4b5cc90cb9d47e52d78d77a1712dd90.svg",
+    "main.2ff3dff6.js.map": "/quantum/rpc-api-playground/static/js/main.2ff3dff6.js.map",
+    "787.f208c0cf.chunk.js.map": "/quantum/rpc-api-playground/static/js/787.f208c0cf.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.317ed2c8.js"
+    "static/js/main.2ff3dff6.js"
   ]
 }
